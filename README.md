@@ -26,5 +26,6 @@ which contains the answers to the questions asked.
 2. [The Stroop Effect explained](https://www.youtube.com/watch?v=EGpzftQf8oI)
 3. [Stroop Effect](https://en.wikipedia.org/wiki/Stroop_effect)
 4. [Neuroscience For Kids](https://faculty.washington.edu/chudler/words.html)
+5. [Test assumptions](http://www.psychology.emory.edu/clinical/bliwise/Tutorials/TOM/meanstests/assump.htm)
 
 ****
